@@ -8,7 +8,7 @@
 
 ## ⚠️ IMPORTANT DISCLAIMER
 
-**THIS IS AN AI-POWERED PERSONALITY ASSESSMENT AND SELF-DISCOVERY TOOL ONLY.**
+**THIS IS AN PERSONALITY ASSESSMENT AND SELF-DISCOVERY TOOL ONLY.**
 
 - All information is generated from published psychological research and validated personality frameworks.
 - Results are intended for self-reflection, education, and personal development.
